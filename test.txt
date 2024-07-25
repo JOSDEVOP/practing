@@ -1,7 +1,8 @@
 one
-three
 two
+three
 FOUR
 fifth
-SEVEN
 six
+SEVEN
+
