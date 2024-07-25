@@ -4,4 +4,3 @@ two
 FOUR
 
 fifth
-SIX
